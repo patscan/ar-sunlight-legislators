@@ -1,3 +1,6 @@
+This is Pat Scanlan's version of the Active Record Congress Database
+assignment for Dev Bootcamp.
+
 ActiveRecord Sunlight Legislators
 =================================
 
